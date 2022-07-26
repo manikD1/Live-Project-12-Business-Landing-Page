@@ -42,9 +42,9 @@
 &nbsp;
 ***
 ## **🔥Netlify Live Link🔥**
-- [Business Landing Page]()
+- [Business Landing Page](https://live-proj-12-fullstackjsbootcamp.netlify.app/)
 
 &nbsp;
 ***
 ## **📷 Post Designing Screenshot 📷**
-![]()
+![](https://github.com/manikD1/Live-Project-12-Business-Landing-Page/blob/main/Actual-Screenshot.JPG)
